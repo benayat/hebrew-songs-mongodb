@@ -1,0 +1,3 @@
+- add fields: bool - does it have an animal?
+- which animal. 
+- source: 
